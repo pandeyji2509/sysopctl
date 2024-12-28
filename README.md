@@ -124,17 +124,7 @@ sysopctl backup <path>
 
 ---
 
-## Notes
-- Ensure you have sufficient privileges to perform system-wide operations.
-- This script is tested on Linux distributions using `systemctl` for service management.
 
----
-
-Feel free to contribute or raise issues in the repository!
-
-```
-
-This version is organized, user-friendly, and adheres to GitHub's `README.md` best practices. Let me know if you need any additional changes!
 
 ![ss0 8](https://github.com/user-attachments/assets/a8511ef4-a8f1-44f4-9b71-4c31e2a5c2a9)
 ![ss0 7](https://github.com/user-attachments/assets/15771948-d0cc-4386-829a-493e24e1ecbd)
