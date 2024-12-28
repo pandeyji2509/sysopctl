@@ -136,7 +136,8 @@ Feel free to contribute or raise issues in the repository!
 
 This version is organized, user-friendly, and adheres to GitHub's `README.md` best practices. Let me know if you need any additional changes!
 
-(https://github.com/user-attachments/assets/1c041884-03e3-4660-8886-6108855e178e)
-(https://github.com/user-attachments/assets/1e20065d-0543-4e33-b3ef-ba5d32a5d41d)
-(https://github.com/user-attachments/assets/0abe6e25-0ae7-4603-89da-87bc58262e2d)
-(https://github.com/user-attachments/assets/9467e1fd-b434-4318-a3cf-8414c7465041)
+![ss0 8](https://github.com/user-attachments/assets/a8511ef4-a8f1-44f4-9b71-4c31e2a5c2a9)
+![ss0 7](https://github.com/user-attachments/assets/15771948-d0cc-4386-829a-493e24e1ecbd)
+![ss0 6](https://github.com/user-attachments/assets/f18efc06-13fa-40d8-b937-0d287eaf2933)
+![ss0 5](https://github.com/user-attachments/assets/78a09644-4863-413c-ae37-fe144dc65db6)
+
